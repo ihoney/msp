@@ -1,7 +1,6 @@
 ## 大数据监管平台
-##### 此政务系统通过整合工商信息平台等资源，实现市场监管综合管理各部门的互联互通和信息共享，及对市场发展的监督管理和研判预测
-##### 我主要负责的是内网门户展示模块和消息发布与展示模块，具体功能包括展示企业登记信息、预警提醒、待回复留言、在营企业行业分布图、新设置注销企业行业分布图以及信息主题管理、信息发布审核等；
-同时参与了该项目ETL数据仓库的数据采集处理挖掘脚本的开发
+ - [x] 此政务系统通过整合工商信息平台等资源，实现市场监管综合管理各部门的互联互通和信息共享，及对市场发展的监督管理和研判预测
+ - [x] 我主要负责的是内网门户展示模块和消息发布与展示模块，具体功能包括展示企业登记信息、预警提醒、待回复留言、在营企业行业分布图、新设置注销企业行业分布图以及信息主题管理、信息发布审核等；同时参与了该项目ETL数据仓库的数据采集处理挖掘脚本的开发
 #### 开发平台 
  - [x] 开发工具 Eclipse-Mars  Oracle-11g  数据仓库采用GreenPlum 集群  
  - [x] 框架技术 JPA Spring Springmvc Hibernate maven 
@@ -15,7 +14,7 @@
 ![](https://raw.githubusercontent.com/forgeekscn/domt/master/note/msp_1.png) 
 ![](https://raw.githubusercontent.com/forgeekscn/domt/master/note/msp_2.png) 
 ![](https://raw.githubusercontent.com/forgeekscn/domt/master/note/msp_3.png) 
-#### 联系作者
+#### 联系我
 - [x] forgeekscn@gmail.com
 - [x] http://forgeeks.cn
 - [x] qq783808649 
