@@ -15,4 +15,4 @@
 ![](https://raw.githubusercontent.com/forgeekscn/domt/master/note/msp_5.png) 
 ![](https://raw.githubusercontent.com/forgeekscn/domt/master/note/msp_6.png) 
 #### 联系我
-- [x] 783808649@qq.com
+- [x] forgeekscn@gmail.com
